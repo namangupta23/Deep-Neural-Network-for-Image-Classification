@@ -1,1 +1,3 @@
 # Deep-Neural-Network-for-Image-Classification
+
+This notebook is a programming exercise of the Deep Learning Specialization by Deeplearning.ai. We have built a image recognition algorithm. It is a cat classifier that recognizes cat with over 80% accuracy. In this notebook we experiment with different model architectures and see how each one behaves and recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch. This assignment prepares us well for the next course which dives deep into the techniques and strategies for parameters tuning and initializations.
